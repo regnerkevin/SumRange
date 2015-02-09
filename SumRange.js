@@ -1,4 +1,8 @@
-
+// Code to add the sums from a specific range. In my code, 1-50
+// Kevin Regner
+// 2/9 <-- Was completed before this date, but forgot to include comments.
+// Chapter 4, SumRange
+// Basic code to make SumRange work (with books help!)
 function range(start, end, step) {
        	if (step == null) step = 1;
 	    var array = [];
