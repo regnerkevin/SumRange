@@ -19,4 +19,4 @@ function sum(array) {
 	      return total;
 }
 
-console.log(sum(range(1, 100)));
+console.log(sum(range(1, 50)));
